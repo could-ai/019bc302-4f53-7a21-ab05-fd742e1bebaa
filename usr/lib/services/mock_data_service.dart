@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'models.dart';
+import '../models/models.dart';
 
 class MockDataService {
   // Singleton pattern
